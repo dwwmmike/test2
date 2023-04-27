@@ -1,0 +1,49 @@
+body{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+/***************************NAV*******************/
+nav{
+    border: 1px solid grey ;
+}
+
+
+nav ul {
+    list-style-type:none;
+    margin: 0 0 0 -2%;   
+}
+
+nav li{
+    display: inline-block;
+    text-align: center;
+    border: 2px solid green;
+    padding: 1%;
+    
+}
+nav p{
+    margin-left: 55%;
+}
+
+#textNav p{
+    font-size: 15px;
+    float: right;
+}
+
+.photos{
+    margin-top: 12%;
+    margin-left: 30%;
+    
+}
+
+.photos img{
+    padding-left: 5%;
+}
+
+#cardText p{
+    float:left;
+}
+
+#cardText{
+    display: inline-block;
+    column-count: 3;
+}
